@@ -1,6 +1,6 @@
-# i have temporary hide my github README.md profile.
+<!-- # i have temporary hide my github README.md profile. -->
 
-<!-- # Hi, I'm Kawser - Full-Stack Engineer
+# Hi, I'm Kawser - Full-Stack Engineer
 
 **Username:** [go-kawser](https://github.com/go-kawser)
 **Open to Remote Roles:** Junior/Entry-Level Full-Stack & Backend Developer (USA, Canada, EU)
@@ -52,7 +52,7 @@
 
 ### Get in Touch
 
-- **Email:** [coming-soon@gmail.com](mailto:your.email@example.com)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
 - **LinkedIn:** [linkedin.com/in/coming-soon-linkedin](https://www.linkedin.com/in/coming-soon-linkedin)
 - **Portfolio:** [kawser.dev](https://kawser.dev)
 - **Open to collaborate or discuss opportunities!**
@@ -61,4 +61,4 @@
 
 #### Fun Fact
 
-**I enjoy solving complex coding challenges in my spare time!** -->
+**I enjoy solving complex coding challenges in my spare time!**
