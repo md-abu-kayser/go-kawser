@@ -1,4 +1,4 @@
-# i have temporary hide my github README.md profile.
+# I have temporary hide my github README.md profile.
 
 <!-- # Md Abu Kayser - Full-Stack Engineer
 
